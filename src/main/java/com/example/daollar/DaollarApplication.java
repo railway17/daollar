@@ -1,0 +1,13 @@
+package com.example.daollar;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class DaollarApplication {
+
+    public static void main(String[] args) {
+        SpringApplication.run(DaollarApplication.class, args);
+    }
+
+}
